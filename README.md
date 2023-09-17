@@ -1,27 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on a To-Do list <br>🌱 I’m currently learning C++ with Data Structure and Algorithms<br>⚡ Fun fact-Flamingos bend their legs at the ankle, not the knee
+<h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgupta-02&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgupta-02" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_listens) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal Gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@VishalG41764750) 
+- 🌱 I’m currently learning **C++ with DSA**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+- 📫 How to reach me **abhimanyug987@gmail.com**
 
-<!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-<!--  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@VishalG41764750)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+- ⚡ Fun fact **I think I am Boring :)**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/vishal gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishal gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/vishal-listens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal-listens" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishalgupta-02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalgupta-02" height="30" width="40" /></a>
+</p>
 
-<!-- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=vishalgupta-02&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalgupta-02&show_icons=true&locale=en" alt="vishalgupta-02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&" alt="vishalgupta-02" /></p>
+
