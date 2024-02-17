@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on different  Javascript projects to know the miracles of Javascript<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Procrastination and about some Development<br>⚡ Fun fact-I think I am Boring :)....
 
+---
+[![](https://visitcount.itsvg.in/api?id=vishalgupta-02&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KhSu7nnnNG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vishal-Gupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_listens) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-gupta-16018719a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abhimanyug987) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhimanyug987) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vishal-Gupta-6860) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/vishal-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishalG41764750) 
@@ -20,8 +23,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=vishalgupta-02&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
