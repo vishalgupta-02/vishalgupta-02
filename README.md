@@ -14,9 +14,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRyc2p1OHduNmk3cXN4eXA4cDA4ZGRnNjg0NDE5bml6dG44cHhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 350px; width:700px"/>
+
+<img src='https://randommeme-five.vercel.app/' style="height: 350px"/>
