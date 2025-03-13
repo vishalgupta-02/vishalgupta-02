@@ -12,13 +12,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta-02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img height="250" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRyc2p1OHduNmk3cXN4eXA4cDA4ZGRnNjg0NDE5bml6dG44cHhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
-
-
-<img src='https://randommeme-five.vercel.app/' style="height: 350"/>
