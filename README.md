@@ -12,3 +12,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img height="250" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRyc2p1OHduNmk3cXN4eXA4cDA4ZGRnNjg0NDE5bml6dG44cHhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
