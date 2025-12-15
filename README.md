@@ -1,5 +1,11 @@
 # 💫 About Me:
-[🔭 I’m currently working on different  Javascript projects to know the miracles of Javascript<br>👯 I’m looking to collaborate on Fullstack Development Projects<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Procrastination and some Development<br>⚡ Fun fact- "Choosing Visual Studio Code because who says coding can't be an exhilarating ride?](https://www.linkedin.com/in/vishal-gupta-16018719a/) 🚀💻 With VS Code, every line of code is a chance to explore new possibilities and unleash your creativity without leaving the comfort of your editor! 🎉 #CodingThrills" :)....
+🔭 I’m currently working on - Building full-stack products with a focus on scalable backend APIs, clean data models, and production-ready architecture.
+👯 I’m looking to collaborate on - Early-stage product ideas, developer tools, and web platforms that solve real problems and can grow beyond MVP.
+🤝 I’m looking for help with - System design reviews, scalability patterns, and learning from people who’ve shipped real products at scale.
+🌱 I’m currently learning - Backend scalability, system design fundamentals, NGINX, Redis, RabbitMQ and how real-world web services handle load and failures.
+💬 Ask me about - JavaScript, React, Next.js, Node.js, Express, MongoDB, REST APIs, authentication, and full-stack project architecture.
+⚡ Fun Fact About Me - I care more about shipping useful systems than polishing demos. 
+🚀💻 With VS Code, every line of code is a chance to explore new possibilities and unleash your creativity without leaving the comfort of your editor! 🎉 #CodingThrills" :)....
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishal-Gupta&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
