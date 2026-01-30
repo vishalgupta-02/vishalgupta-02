@@ -1,3 +1,5 @@
+[![Vishal Gupta](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on - Building full-stack products with a focus on scalable backend APIs, clean data models, and production-ready architecture.<br/>
 👯 I’m looking to collaborate on - Early-stage product ideas, developer tools, and web platforms that solve real problems and can grow beyond MVP.<br/>
@@ -18,5 +20,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalgupta-02&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height="200" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRyc2p1OHduNmk3cXN4eXA4cDA4ZGRnNjg0NDE5bml6dG44cHhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
