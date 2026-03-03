@@ -1,26 +1,60 @@
-[![Vishal Gupta](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone;Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
-
-# 💫 About Me:
-🔭 I’m currently working on - Building full-stack products with a focus on scalable backend APIs, clean data models, and production-ready architecture.<br/>
-👯 I’m looking to collaborate on - Early-stage product ideas, developer tools, and web platforms that solve real problems and can grow beyond MVP.<br/>
-🤝 I’m looking for help with - System design reviews, scalability patterns, and learning from people who’ve shipped real products at scale. <br/>
-🌱 I’m currently learning - Backend scalability, system design fundamentals, NGINX, Redis, RabbitMQ and how real-world web services handle load and failures. <br/>
-💬 Ask me about - JavaScript, React, Next.js, Node.js, Express, MongoDB, REST APIs, authentication, and full-stack project architecture. <br/>
-⚡ Fun Fact About Me - I care more about shipping useful systems than polishing demos. <br/>
-🚀💻 With VS Code, every line of code is a chance to explore new possibilities and unleash your creativity without leaving the comfort of your editor! 🎉 #CodingThrills" :)....
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vishal+Gupta;Full-Stack+Developer;Backend+Focused+%7C+Scalable+Systems+%7C+Production+Mindset)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishal-Gupta&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xvDneqcaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v1shal_gupt9.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-gupta-16018719a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994904) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VishalG41764750) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhimanyug987@gmail.com) 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat&logo=deno&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+I build **production-ready full-stack systems** with a strong focus on backend architecture, clean data models, and scalable APIs.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 Currently building: Real-world products designed to scale beyond MVP  
+- 🌱 Learning deeply: System design, backend scalability, NGINX, Redis, RabbitMQ  
+- 🤝 Open to: Early-stage product ideas, dev tools, meaningful web platforms  
+- 🧠 Interested in: Architecture reviews & learning from engineers who ship at scale  
+- 💬 Ask me about: JavaScript, TypeScript, Node.js, Next.js, REST APIs, authentication  
+- ⚡ Philosophy: Ship useful systems. Optimize later.
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalgupta-02&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<img height="200" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRyc2p1OHduNmk3cXN4eXA4cDA4ZGRnNjg0NDE5bml6dG44cHhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif"  />
+## 🧱 Core Stack
+
+### 🚀 Backend
+`Node.js` • `Express` • `Next.js API Routes` • `MongoDB` • `Redis` • `RabbitMQ` • `JWT` • `NGINX`
+
+### 🎨 Frontend
+`React` • `Next.js` • `TypeScript` • `TailwindCSS` • `React Hook Form` • `Context API`
+
+### ⚙️ Dev & Infra
+`Docker` • `AWS` • `Vercel` • `Render` • `Git` • `GitHub` • `Postman` • `ESLint`
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta-02&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-gupta-16018719a)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994904)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@VishalG41764750)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v1shal_gupt9.02)
+
+---
+
+## 🧠 Engineering Mindset
+
+> “Code is temporary. Architecture is leverage.”
+
+I care about:
+- Designing systems that survive real traffic  
+- Writing code that future-me doesn’t hate  
+- Understanding what happens under the hood  
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Vishal-Gupta&label=Profile%20Views&icon=5&pretty=true)
