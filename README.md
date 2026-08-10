@@ -20,14 +20,16 @@ I'm particularly interested in understanding what happens when a system goes fro
 
 ## 🧑‍💻 About Me
 
-* 🎯 Currently focused on **SDE-1 / Backend Engineering**
+* 🎯 **Open to Software Engineering opportunities — Backend / SDE-1**
 * 🛠️ Strongest in **JavaScript / TypeScript**
 * 🚀 Building production-style backend systems
 * 🧠 Learning and applying **Distributed Systems & System Design**
-* 🗄️ Working with **PostgreSQL, Redis, Kafka & ClickHouse**
+* 🗄️ Working with **PostgreSQL & Redis**
+* ⚡ Exploring **Kafka, ClickHouse & event-driven architectures**
 * ☁️ Exploring **AWS, Docker & Terraform**
 * 📊 Interested in **performance engineering and observability**
 * 🧪 I like testing systems under load instead of assuming they scale
+* 🤝 Open to connecting with engineers, founders, and teams building interesting backend products
 
 ---
 
@@ -36,7 +38,7 @@ I'm particularly interested in understanding what happens when a system goes fro
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
 </p>
 
 **TypeScript · JavaScript · Python**
@@ -44,7 +46,7 @@ I'm particularly interested in understanding what happens when a system goes fro
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,restapi" />
 </p>
 
 **Node.js · Express · Next.js · REST APIs**
@@ -52,10 +54,26 @@ I'm particularly interested in understanding what happens when a system goes fro
 ### Databases & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka,clickhouse" />
 </p>
 
 **PostgreSQL · Redis · Kafka · ClickHouse**
+
+### API & Documentation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=openapi,scalar" />
+</p>
+
+**OpenAPI · Scalar**
+
+### Testing & Performance
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,supertest,playwright,autocannon,k6" />
+</p>
+
+**Vitest · Supertest · Playwright · Testcontainers · Autocannon · k6**
 
 ### Cloud & Infrastructure
 
@@ -67,15 +85,15 @@ I'm particularly interested in understanding what happens when a system goes fro
 
 ### Observability
 
-**Prometheus · Grafana · Loki · OpenTelemetry**
+<p>
+  <img src="https://skillicons.dev/icons?i=opentelemetry,prometheus,grafana,sentry" />
+</p>
 
-### Testing
-
-**Vitest · Supertest · Playwright · Testcontainers · k6**
+**OpenTelemetry · Prometheus · Grafana · Sentry**
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🔗 LinkPulse
 
@@ -83,23 +101,37 @@ I'm particularly interested in understanding what happens when a system goes fro
 
 A production-oriented link platform designed around **low-latency redirects and asynchronous analytics**.
 
-### Engineering Highlights
+### Architecture
 
 ```text
-Next.js
-   ↓
-Express + TypeScript
-   ↓
-Redis + PostgreSQL
-   ↓
-Kafka
-   ↓
-Analytics Workers
-   ↓
-ClickHouse
+                         LinkPulse
+                            │
+                            ▼
+                  Express + TypeScript
+                            │
+                ┌───────────┴───────────┐
+                │                       │
+                ▼                       ▼
+             Redis                 PostgreSQL
+                │                       │
+                └───────────┬───────────┘
+                            │
+                       Redirect
+                            │
+                            ▼
+                          Kafka
+                            │
+                            ▼
+                    Analytics Workers
+                            │
+                            ▼
+                       ClickHouse
+                            │
+                            ▼
+                    Analytics Dashboard
 ```
 
-### Built / Exploring
+### Engineering Highlights
 
 * ⚡ Redis cache-aside link resolution
 * 📊 Kafka-based asynchronous analytics
@@ -110,8 +142,11 @@ ClickHouse
 * 🛡️ Rate limiting & abuse protection
 * 🔑 API key authentication
 * 🌐 Custom domains
-* 📡 OpenTelemetry tracing
-* 📊 Prometheus + Grafana
+* 📖 OpenAPI + Scalar API documentation
+* 📡 OpenTelemetry distributed tracing
+* 🐛 Sentry error tracking
+* 📊 Prometheus + Grafana monitoring
+* ⚡ Autocannon HTTP benchmarking
 * 🧪 k6 load testing
 * 🐳 Docker
 * ☁️ AWS + Terraform
@@ -192,7 +227,7 @@ Observe
 Document Trade-offs
 ```
 
-That's the mindset I'm trying to develop as a backend engineer.
+That's the engineering mindset I'm trying to develop.
 
 ---
 
@@ -230,6 +265,18 @@ Scenario C
 Redis cold cache
 ```
 
+Using:
+
+```text
+Autocannon
+    +
+k6
+    +
+Prometheus
+    +
+Grafana
+```
+
 And compare:
 
 ```text
@@ -241,6 +288,7 @@ CPU
 Memory
 Database load
 Cache hit rate
+Error rate
 ```
 
 The numbers matter more than the assumption.
@@ -277,6 +325,12 @@ Terraform
 
 should exist because infrastructure should be reproducible.
 
+```text
+OpenTelemetry
+```
+
+should exist because distributed systems need visibility across service boundaries.
+
 My goal is to understand **why a technology belongs in a system**, not just how to use it.
 
 ---
@@ -297,27 +351,29 @@ My goal is to understand **why a technology belongs in a system**, not just how 
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
+<!-- Add GitHub stats after building meaningful repository activity. -->
 
 ---
 
 # 📫 Let's Connect
 
-I'm interested in connecting with engineers, developers, and builders working on:
+I'm currently **open to Backend / SDE-1 Software Engineering opportunities**.
+
+I'm especially interested in teams working on:
 
 * Backend systems
 * Distributed systems
 * Infrastructure
 * Developer tools
-* System design
+* Developer platforms
+* High-scale applications
 * Performance engineering
 
-**LinkedIn:** [Your LinkedIn]
+### Connect with me
 
-**Email:** [Your Email]
+**LinkedIn:** [linkedin.com/in/v1shalgupt9](https://www.linkedin.com/in/v1shalgupt9/)
+
+**Email:** [v1shalgupta35264@gmail.com](mailto:v1shalgupta35264@gmail.com)
 
 ---
 
