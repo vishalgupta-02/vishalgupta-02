@@ -1,59 +1,340 @@
+# Hey, I'm Vishal 👋
+
+### Software Engineer | Backend & Distributed Systems
+
+I build backend systems with a focus on **scalability, reliability, performance, and clean engineering**.
+
+I'm particularly interested in understanding what happens when a system goes from:
+
+```text
+10 requests
+      ↓
+10,000 requests
+      ↓
+1,000,000 requests
+```
+
+—not just making the API work, but understanding **latency, caching, databases, queues, failures, observability, and trade-offs**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I build **production-ready full-stack systems** with a strong focus on backend architecture, clean data models, and scalable APIs.
-
-- 🔭 Currently building: Real-world products designed to scale beyond MVP  
-- 🌱 Learning deeply: System design, backend scalability, NGINX, Redis, RabbitMQ  
-- 🤝 Open to: Early-stage product ideas, dev tools, meaningful web platforms  
-- 🧠 Interested in: Architecture reviews & learning from engineers who ship at scale  
-- 💬 Ask me about: JavaScript, TypeScript, Node.js, Next.js, REST APIs, authentication  
-- ⚡ Philosophy: Ship useful systems. Optimize later.
-
----
-
-## 🧱 Core Stack
-
-### 🚀 Backend
-`Node.js` • `Express` • `Next.js API Routes` • `MongoDB` • `Redis` • `RabbitMQ` • `JWT` • `NGINX`
-
-### 🎨 Frontend
-`React` • `Next.js` • `TypeScript` • `TailwindCSS` • `React Hook Form` • `Context API`
-
-### ⚙️ Dev & Infra
-`Docker` • `AWS` • `Vercel` • `Render` • `Git` • `GitHub` • `Postman` • `ESLint`
+* 🎯 Currently focused on **SDE-1 / Backend Engineering**
+* 🛠️ Strongest in **JavaScript / TypeScript**
+* 🚀 Building production-style backend systems
+* 🧠 Learning and applying **Distributed Systems & System Design**
+* 🗄️ Working with **PostgreSQL, Redis, Kafka & ClickHouse**
+* ☁️ Exploring **AWS, Docker & Terraform**
+* 📊 Interested in **performance engineering and observability**
+* 🧪 I like testing systems under load instead of assuming they scale
 
 ---
 
-## 📈 GitHub Analytics
+## ⚙️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python" />
+</p>
+
+**TypeScript · JavaScript · Python**
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+</p>
+
+**Node.js · Express · Next.js · REST APIs**
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" />
+</p>
+
+**PostgreSQL · Redis · Kafka · ClickHouse**
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions" />
+</p>
+
+**AWS · Docker · Terraform · GitHub Actions**
+
+### Observability
+
+**Prometheus · Grafana · Loki · OpenTelemetry**
+
+### Testing
+
+**Vitest · Supertest · Playwright · Testcontainers · k6**
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 LinkPulse
+
+**Distributed Link Infrastructure & Traffic Analytics Platform**
+
+A production-oriented link platform designed around **low-latency redirects and asynchronous analytics**.
+
+### Engineering Highlights
+
+```text
+Next.js
+   ↓
+Express + TypeScript
+   ↓
+Redis + PostgreSQL
+   ↓
+Kafka
+   ↓
+Analytics Workers
+   ↓
+ClickHouse
+```
+
+### Built / Exploring
+
+* ⚡ Redis cache-aside link resolution
+* 📊 Kafka-based asynchronous analytics
+* 🗄️ PostgreSQL transactional storage
+* 📈 ClickHouse analytical workloads
+* 🌍 Intelligent traffic routing
+* 🔐 Multi-tenancy + RBAC
+* 🛡️ Rate limiting & abuse protection
+* 🔑 API key authentication
+* 🌐 Custom domains
+* 📡 OpenTelemetry tracing
+* 📊 Prometheus + Grafana
+* 🧪 k6 load testing
+* 🐳 Docker
+* ☁️ AWS + Terraform
+
+**Repository:** `LinkPulse`
+
+---
+
+# 🧠 What I'm Currently Learning
+
+### Backend Engineering
+
+```text
+TypeScript
+    ↓
+Node.js / Express
+    ↓
+PostgreSQL
+    ↓
+Redis
+    ↓
+Kafka
+    ↓
+ClickHouse
+```
+
+### System Design
+
+Currently focusing on:
+
+* caching strategies
+* database indexing
+* database transactions
+* connection pooling
+* message queues
+* event-driven architecture
+* idempotency
+* rate limiting
+* horizontal scaling
+* consistency models
+* failure handling
+* observability
+* load testing
+
+---
+
+# 📈 How I Approach Engineering
+
+I don't want my projects to be:
+
+```text
+Build CRUD
+      ↓
+Push to GitHub
+      ↓
+Done
+```
+
+I prefer:
+
+```text
+Build
+  ↓
+Measure
+  ↓
+Find Bottleneck
+  ↓
+Understand Why
+  ↓
+Optimize
+  ↓
+Load Test
+  ↓
+Introduce Failure
+  ↓
+Observe
+  ↓
+Document Trade-offs
+```
+
+That's the mindset I'm trying to develop as a backend engineer.
+
+---
+
+# 🔬 Engineering Experiments
+
+I enjoy turning architectural decisions into measurable experiments.
+
+### Example
+
+**Question:**
+
+> Does Redis actually improve redirect performance?
+
+Instead of assuming:
+
+```text
+PostgreSQL → slow
+Redis → fast
+```
+
+I benchmark:
+
+```text
+Scenario A
+PostgreSQL only
+
+vs.
+
+Scenario B
+Redis warm cache
+
+vs.
+
+Scenario C
+Redis cold cache
+```
+
+And compare:
+
+```text
+p50
+p95
+p99
+RPS
+CPU
+Memory
+Database load
+Cache hit rate
+```
+
+The numbers matter more than the assumption.
+
+---
+
+# 🏗️ Architecture > Buzzwords
+
+I don't want to add technologies just because they look good on a resume.
+
+For example:
+
+```text
+Kafka
+```
+
+should exist because there is a real asynchronous/event-driven workload.
+
+```text
+Redis
+```
+
+should exist because there is a caching/performance problem.
+
+```text
+ClickHouse
+```
+
+should exist because analytical workloads shouldn't unnecessarily compete with transactional workloads.
+
+```text
+Terraform
+```
+
+should exist because infrastructure should be reproducible.
+
+My goal is to understand **why a technology belongs in a system**, not just how to use it.
+
+---
+
+# 📚 Currently Exploring
+
+* Distributed Systems
+* System Design
+* Backend Performance
+* Database Internals
+* Event-Driven Architecture
+* Cloud Infrastructure
+* Observability
+* Reliability Engineering
+* Security
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta-02&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgupta-02&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-gupta-16018719a)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19994904)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@VishalG41764750)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v1shal_gupt9.02)
+I'm interested in connecting with engineers, developers, and builders working on:
 
----
+* Backend systems
+* Distributed systems
+* Infrastructure
+* Developer tools
+* System design
+* Performance engineering
 
-## 🧠 Engineering Mindset
+**LinkedIn:** [Your LinkedIn]
 
-> “Code is temporary. Architecture is leverage.”
-
-I care about:
-- Designing systems that survive real traffic  
-- Writing code that future-me doesn’t hate  
-- Understanding what happens under the hood  
+**Email:** [Your Email]
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Vishal-Gupta&label=Profile%20Views&icon=5&pretty=true)
+## ⚡ A little about how I build
+
+```text
+Curiosity
+    +
+Engineering
+    +
+Measurement
+    +
+Failure
+    +
+Iteration
+    =
+Better Systems
+```
+
+### Building systems that don't just work — understanding why they work.
