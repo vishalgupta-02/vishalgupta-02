@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vishal+Gupta;Full-Stack+Developer;Backend+Focused+%7C+Scalable+Systems+%7C+Production+Mindset)](https://git.io/typing-svg)
 
 ---
 
