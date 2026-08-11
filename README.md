@@ -1,6 +1,6 @@
 # Hey, I'm Vishal 👋
 
-### Software Engineer | Backend & Distributed Systems
+### Software Engineer | Backend & Distributed Systems | AI Engineer
 
 I build backend systems with a focus on **scalability, reliability, performance, and clean engineering**.
 
@@ -371,9 +371,12 @@ I'm especially interested in teams working on:
 
 ### Connect with me
 
-**LinkedIn:** [linkedin.com/in/v1shalgupt9](https://www.linkedin.com/in/v1shalgupt9/)
-
-**Email:** [v1shalgupta35264@gmail.com](mailto:v1shalgupta35264@gmail.com)
+<div align="center">
+<a href="mailto:v1shalgupta35264@gmail.com"> <img src="https://img.shields.io/badge/Gmail-v1shalgupta35264%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/vishal-gupta/"> <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Gupta-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://github.com/vishalgupta-02"> <img src="https://img.shields.io/badge/GitHub-vishalgupta--02-4F46E5?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://vishalbuild.tech"> <img src="https://img.shields.io/badge/Portfolio-vishalbuild.tech-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+</div>
 
 ---
 
@@ -394,3 +397,6 @@ Better Systems
 ```
 
 ### Building systems that don't just work — understanding why they work.
+<div align="center">  
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=120&section=footer" />
+</div>
